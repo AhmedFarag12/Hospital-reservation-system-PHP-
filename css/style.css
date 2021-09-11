@@ -1,0 +1,44 @@
+*{
+    font-family: 'Oswald', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    text-align: center;
+    margin: 40px 0;
+
+}
+.logo img{
+    width: 100px;
+}
+.logo h2{
+    font-size: 30px;
+    font-weight: 600;
+    color: #005b5c;
+
+}
+.book{
+    text-align: center;
+}
+.book p{
+    font-size: 25px;
+}
+.book input{
+    width: 50%;
+    margin-bottom: 10px;
+    padding: 15px;
+}
+.book input[type="submit"]{
+    font-size: 16px;
+    color: #fff;
+    background-color: #005b5c;
+    border: none;
+
+}
+
+th{
+    background:#005b5c ;
+    color: #fff;
+}
+
